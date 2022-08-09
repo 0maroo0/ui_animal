@@ -1,16 +1,13 @@
 # animal_help_flutter
 
-A new Flutter project.
+A animal_help_flutter Android.Written in Flutter.This is a UI design. without backend.
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
+![Android Emulator - Pixel_3a_API_30_5554 8_9_2022 8_07_12 AM](https://user-images.githubusercontent.com/97189948/183576894-8e02378c-1f81-4d43-ba22-f0bc35a0e2c9.png)
+![Android Emulator - Pixel_3a_API_30_5554 8_9_2022 8_07_23 AM](https://user-images.githubusercontent.com/97189948/183576904-c21aabb9-0a38-4415-adcb-9409150327a9.png)
+![Android Emulator - Pixel_3a_API_30_5554 8_9_2022 8_07_32 AM](https://user-images.githubusercontent.com/97189948/183576922-42327141-8d4b-4f97-87e2-93fe09522980.png)
 
-A few resources to get you started if this is your first Flutter project:
+#Android Application Package
+controller with GetX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
